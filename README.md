@@ -8,10 +8,14 @@
 |<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E">|<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white">&nbsp;|<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat-square&logo=Eclipse&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white">|<img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Gradle-02303A.svg?style=flat-square&logo=Gradle&logoColor=white">|<img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat-square&logo=apache-tomcat&logoColor=black">&nbsp;<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white">|<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Mybatis-181717.svg?style=flat-square&logo=Mybatis&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/JSP-3776AB.svg?style=flat-square&logo=JSP&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/JSON-3776AB.svg?style=flat-square&logo=JSON&logoColor=white">|
 
 ## 프로젝트
-### 프로젝트 이름(간단한 설명)
-* 핵심 기술 :
+### Amuze(무용플랫폼 앱)
+* 핵심 기술 : 카카오 로그인, 게시판, 검색, 광고, 알림, 채팅
+* 주요 코드 :
+
+### toPet(반려동물 일지 웹)
+* 핵심 기술 : 카카오 로그인, 캘린더, 게시판, 검색, 쇼츠
 * 주요 코드 :
 
 ## 자격
 * 네트워크관리사2급
-* 정보처리산업기사(예정)
+* 정보처리산업기사(12/11 취득 예정)

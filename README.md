@@ -12,6 +12,8 @@
 
 ### 🏢 eroom – 사내 협업 특화 그룹웨어
 
+- github : 
+
 **설명**  
 'eroom'은 IT 기업 환경을 위한 협업 중심 그룹웨어로, GitHub PR 관리, SonarCloud 테스트 연동, ChatGPT 기반 챗봇 등 실무 기능을 반영한 프로젝트입니다.
 
@@ -31,6 +33,8 @@ Java, Spring Boot, Spring Security, JPA, Thymeleaf, Bootstrap, JavaScript, Maria
 
 ### 🎬 film_log – 영화 리뷰 커뮤니티 웹
 
+- github : 
+
 **설명**  
 영화 감상 기록과 리뷰 작성을 중심으로 사용자 간 소통을 지원하는 커뮤니티 플랫폼입니다. 감상 데이터를 바탕으로 장르별/월별/연도별 통계를 제공합니다.
 
@@ -48,6 +52,8 @@ Java, JavaScript, Servlet/JSP, MyBatis, MariaDB, Bootstrap, Tomcat
 ---
 
 ### 🐾 toPet – 통합 반려동물 커뮤니티 웹앱
+
+- github : https://github.com/leejh0315/topet-front
 
 **설명**  
 강아지, 고양이, 특수동물 등 반려동물을 위한 통합 커뮤니티 웹앱입니다. 출입 가능 장소 검색, 쇼츠 공유, ChatGPT 기반 챗봇 기능을 제공합니다.
@@ -67,6 +73,8 @@ JavaScript, Java, Spring Boot, MyBatis, JPA, React, MySQL
 ---
 
 ### 💃 Amuze – 무용 프리랜서 플랫폼 앱
+
+- github : 
 
 **설명**  
 무용수와 무대 주최자를 연결하는 프리랜서 플랫폼 앱으로, 무용인의 경력 단절 해소와 커뮤니티 확장을 목표로 하였습니다.

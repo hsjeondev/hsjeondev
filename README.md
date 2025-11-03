@@ -94,9 +94,8 @@ Dart, Flutter, Python, Django, Firebase, Firestore, MySQL
 
 
 ## 자격
-* 정보처리기사(필기)
+* 정보처리기사
 * SQLD
 * 전자 정부 프레임워크 수료
-* 정보처리산업기사
 * 네트워크관리사2급
 
